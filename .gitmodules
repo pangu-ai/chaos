@@ -4,3 +4,9 @@
 [submodule "packages/esbuild"]
 	path = packages/esbuild
 	url = https://github.com/evanw/esbuild
+[submodule "packages/deno"]
+	path = packages/deno
+	url = https://github.com/denoland/deno
+[submodule "packages/node"]
+	path = packages/node
+	url = https://github.com/nodejs/node
