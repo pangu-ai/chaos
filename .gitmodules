@@ -1,0 +1,6 @@
+[submodule "packages/babel"]
+	path = packages/babel
+	url = https://github.com/babel/babel
+[submodule "packages/esbuild"]
+	path = packages/esbuild
+	url = https://github.com/evanw/esbuild
